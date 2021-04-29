@@ -1,5 +1,5 @@
 <?php
-// modifications de verifications pour l'add commint push dans remote
+// deuxièmes modifications de verifications pour l'add commint push dans remote
     $dictionary =
     [
         'cat'    => 'chat',
